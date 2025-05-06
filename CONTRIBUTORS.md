@@ -18,3 +18,4 @@ This file lists all the amazing people who have contributed to this workshop rep
 - [Prashant Kharel](https://github.com/kingcodac) - _May 2025_
 
 <!-- New contributors add your entry above this line -->
+- [himraj](https://github.com/your-Him-Raj-Thapa) - _May 2025_
