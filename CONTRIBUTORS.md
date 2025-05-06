@@ -10,6 +10,7 @@ This file lists all the amazing people who have contributed to this workshop rep
 
 - [Workshop Instructor#1, Assyyn](https://github.com/Assyyn) - _May 2025_
 - [Workshop Instructor#2, Prateek Giri](https://github.com/Prateek-Giree) - _May 2025_
+-  [Nikita Paudel](https://github.com/nikku112) - _May 06 2025_
 - [salina ale](https://github.com/salinaa-alee7) - _May 2025_
 - [Aadarsha Timalsina](https://github.com/your-Aadarsha Timalsaina) - _5 may 2025_
 - [Sanisha Sapkota](https://github.com/sanisha8) - _May 06 2025_
